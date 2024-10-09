@@ -13,5 +13,6 @@ public enum Constants {
 	public static Dimension getGameSize() {
 		// Dimension is a mutable class, copy to prevent mutation.
 		return new Dimension(SIZE);
+		//ola
 	}
 }
