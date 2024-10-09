@@ -8,5 +8,8 @@ integrante 1 Marlo Valle FRANCO
 
 ![alt text](image-2.png)
 
-
+Integrante2: Dhamar Patiño
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
